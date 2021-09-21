@@ -1,6 +1,6 @@
 # MDtable2Latex
 
-Kept experiment results documented in Markdwon? Run this [script]() to convert large MD table to Latex. \#10minutestobuildatool
+Kept experiment results documented in Markdwon? Run this [script]() to convert large MD tables to Latex. \#10minutestobuildatool
 
 ## Requirements
 Python 3.x
@@ -57,4 +57,4 @@ Copy paste `opt_latex.txt` to your `main.tex`<sup>[1](#myfootnote1)</sup>
 
 And we are done 🎉🎉
 
-<a name="myfootnote1">1</a>: You may need to manually take care of the escape symbols.
+<a name="myfootnote1">1</a>: You may need to manually take care of the Latex escape symbols.
