@@ -1,6 +1,6 @@
 # MDtable2Latex
 
-Kept experiment results documented in Markdwon? Run this [script]() to convert large MD tables to Latex. \#10minutestobuildatool
+Kept experiment results documented in Markdwon? Run this [script](https://github.com/JINHXu/MDtable2Latex/blob/main/mdtable2latex.py) to convert large MD tables to Latex. \#10minutestobuildatool
 
 ## Requirements
 Python 3.x
