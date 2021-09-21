@@ -1,11 +1,11 @@
-# MDtable2Latex
+## MDtable2Latex
 
 Kept experiment results documented in Markdwon? Run this [script](https://github.com/JINHXu/MDtable2Latex/blob/main/mdtable2latex.py) to convert large MD tables to Latex. \#10minutestobuildatool
 
-## Requirements
+### Requirements
 Python 3.x
 
-## Example 
+### Example 
 
 | Number samples | minutes| accuracy | F-score (macro) | M1 F1 |  M2 F1 | F1 F1 | M1 acc\recall | M2 acc\recall | F1 acc/recall |
 | --- | --- | --- | ---| ---|---|---| --- | --- | --- |
@@ -45,7 +45,7 @@ output Latex table
 \end{tabular}\end{center}
 ```
 
-## Usage
+### Usage
 
 Copy paste your Markdown table into `inpt_md.txt` 
 
